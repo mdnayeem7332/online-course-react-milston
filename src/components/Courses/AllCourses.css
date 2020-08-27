@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to right,#6e99ce, rgb(0 204 129 / 78%));
+    color: rgb(33 33 33 / 81%);
+    padding: 10px;
+}
+.main-content{
+    width: 70%;
+    padding: 10px;
+}
+.cart{
+    width: 30%;
+
+}
